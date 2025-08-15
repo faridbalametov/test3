@@ -1,3 +1,5 @@
 sifrelerim.txt
 /user/finkodlar.txt
 *.html
+!main.html
+!main2.html
